@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Home-Task_L21</string>
+    <string name="new_text">New Text</string>
+    <string name="fan_off">off</string>
+    <string name="fan_low">1</string>
+    <string name="fan_medium">2</string>
+    <string name="fan_high">3</string>
+    <string name="click">Click</string>
+    <string name="change">Change</string>
+</resources>
